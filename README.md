@@ -6,3 +6,4 @@
 https://github.com/CSSEGISandData/COVID-19
 
 ## Dashboard:
+![til](./Demo.gif)
